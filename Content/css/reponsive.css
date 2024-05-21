@@ -301,10 +301,10 @@ body .slick-dots {
   height: 35px;
 }
 
-/* .highlight:before,.highlight-line:before {
+.highlight:before,.highlight-line:before {
   width: 100%;
   opacity: 1;
-} */
+}
 .small-business .splide__slide {
   padding: 0;
 }
