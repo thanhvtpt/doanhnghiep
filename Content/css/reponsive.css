@@ -382,4 +382,9 @@ input#email {
   width: 100% !important;
 }
 
+.zoom-out {
+  max-width: 100%;
+  animation: unset;
+}
+
 }
