@@ -745,7 +745,7 @@ section.content-productivity-two .content {
 
 .section-classroom-intro{
     padding: 135px 0;
-    height: 560vh;
+    height: 400vh;
     margin-top: 40px;
     
 }
@@ -1156,3 +1156,10 @@ body .popup-showmore .slick-next {
     background: #6F6F6F !important;
 }
 
+.popup-showmore .slick-list {
+    height: 100%;
+}
+
+.popup-showmore .slick-track {
+    height: 100% !important;
+}
