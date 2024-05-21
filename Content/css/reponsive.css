@@ -378,4 +378,8 @@ input#email {
   overflow: auto;
 }
 
+.splide__list {
+  width: 100% !important;
+}
+
 }
