@@ -17,7 +17,7 @@
       787: {
         pagination: false,   // Enable pagination on smaller screens
         // perPage   : 1,      // Display only 1 item per page on smaller screens
-        // padding   : '0',
+         padding   : '0',
       },
     },
   });
